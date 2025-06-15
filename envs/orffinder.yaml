@@ -1,0 +1,6 @@
+name: orffinder-env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - orfipy
